@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "unmonitoredlemmings",
+    "Name": "DMU Tank Helper",
+    "InternalName": "DmuTankHelper",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Movable high-contrast MT/OT callouts for the MUR/OCE Tank LB3 Bowels of Agony strategy in Dancing Mad (Ultimate) Phase 3.",
+    "Punchline": "Accessible MT/OT callouts for DMU Phase 3.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": ["accessibility", "dmu", "tank"],
+    "RepoUrl": "https://github.com/unmonitoredlemmings/DMUTankHelper",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/unmonitoredlemmings/DMUTankHelper/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/unmonitoredlemmings/DMUTankHelper/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/unmonitoredlemmings/DMUTankHelper/main/latest.zip"
+  }
+]
