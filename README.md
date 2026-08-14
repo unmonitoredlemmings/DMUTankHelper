@@ -1,6 +1,6 @@
 # DMU Tank Helper
 
-An accessibility-focused Dalamud overlay for tanks using the MUR/OCE Tank LB3 Bowels of Agony strategy in Dancing Mad (Ultimate) Phase 3.
+An accessibility-focused Dalamud overlay for all eight raid roles using the MUR/OCE Bowels of Agony strategy in Dancing Mad (Ultimate) Phase 3.
 
 ## Install
 
@@ -12,7 +12,7 @@ An accessibility-focused Dalamud overlay for tanks using the MUR/OCE Tank LB3 Bo
 
 4. Save, then run `/xlplugins`.
 5. Search for **DMU Tank Helper** and install it.
-6. Run `/dmuhelper`, select MT or OT, preview and position the overlay, then lock it.
+6. Run `/dmuhelper`, select MT, OT, H1, H2, or D1-D4, preview and position the overlay, then lock it.
 
 ## Commands
 
@@ -22,7 +22,8 @@ An accessibility-focused Dalamud overlay for tanks using the MUR/OCE Tank LB3 Bo
 
 ## Features
 
-- MT/OT assignment and optional Tank LB3 responsibility
+- MT/OT/H1/H2/D1-D4 assignment and role-filtered warnings
+- Optional Tank LB3 responsibility for MT or OT
 - Entropy, Dynamic Fluid, Headwind and Tailwind instructions
 - Thunder III hit 1/hit 2 instructions
 - Implosion and Vacuum Wave callouts
